@@ -1,7 +1,7 @@
 private const val i = 3
 
 fun main(args: Array<String>) {
-    val elfLines = Utils.readFileLines("day1/input.txt")
+    val elfLines = Utils.readFileLines("day01.txt")
     val elfTotals = elfLines.fold(emptyList<Pair<Int, Int>>()) { elfCalories, next ->
         if (elfCalories.isEmpty()) return@fold listOf(1 to next.toInt())
         val (elf, calories) = elfCalories.last()

@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3ba195a-9d11-48ff-bc7a-eff1658cdef6" name="Changes" comment="day1" />
+    <list default="true" id="c3ba195a-9d11-48ff-bc7a-eff1658cdef6" name="Changes" comment="day1">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Day02.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Day01.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Day01.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/day1/input.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/day01.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +20,23 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="aoc-2022-in-kotlin" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -39,13 +62,23 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Dev/Projects/aoc-2022-in-kotlin/aoc-2022-in-kotlin/src/main/kotlin",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Dev\Projects\aoc-2022-in-kotlin\aoc-2022-in-kotlin\src\main\kotlin" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Dev\Projects\aoc-2022-in-kotlin\aoc-2022-in-kotlin\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.Day02Kt">
     <configuration name="Day01Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day01Kt" />
       <module name="aoc-2022-in-kotlin.main" />
@@ -53,8 +86,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Day02Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day02Kt" />
+      <module name="aoc-2022-in-kotlin.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Day02Kt" />
         <item itemvalue="Kotlin.Day01Kt" />
       </list>
     </recent_temporary>
@@ -68,6 +109,7 @@
       <option name="presentableId" value="Default" />
       <updated>1669921620966</updated>
       <workItem from="1669921622557" duration="3086000" />
+      <workItem from="1669977640392" duration="2149000" />
     </task>
     <task id="LOCAL-00001" summary="day1">
       <created>1669924429760</created>
