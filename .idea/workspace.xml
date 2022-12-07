@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3ba195a-9d11-48ff-bc7a-eff1658cdef6" name="Changes" comment="Day 5" />
+    <list default="true" id="c3ba195a-9d11-48ff-bc7a-eff1658cdef6" name="Changes" comment="Day 7">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Day07.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Day07.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -73,14 +76,7 @@
       <recent name="C:\Dev\Projects\aoc-2022-in-kotlin\aoc-2022-in-kotlin\src\main\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.Day06Kt">
-    <configuration name="Day02Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day02Kt" />
-      <module name="aoc-2022-in-kotlin.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.Day07Kt">
     <configuration name="Day03Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day03Kt" />
       <module name="aoc-2022-in-kotlin.main" />
@@ -109,13 +105,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Day07Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day07Kt" />
+      <module name="aoc-2022-in-kotlin.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Day07Kt" />
         <item itemvalue="Kotlin.Day06Kt" />
         <item itemvalue="Kotlin.Day05Kt" />
         <item itemvalue="Kotlin.Day04Kt" />
         <item itemvalue="Kotlin.Day03Kt" />
-        <item itemvalue="Kotlin.Day02Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -130,7 +133,9 @@
       <workItem from="1669921622557" duration="3086000" />
       <workItem from="1669977640392" duration="3198000" />
       <workItem from="1670063074417" duration="13741000" />
-      <workItem from="1670254771151" duration="3391000" />
+      <workItem from="1670254771151" duration="4512000" />
+      <workItem from="1670391594478" duration="4477000" />
+      <workItem from="1670407377740" duration="734000" />
     </task>
     <task id="LOCAL-00001" summary="day1">
       <created>1669924429760</created>
@@ -174,7 +179,28 @@
       <option name="project" value="LOCAL" />
       <updated>1670312296406</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Day 6">
+      <created>1670317056539</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1670317056539</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Day 7">
+      <created>1670406046150</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1670406046150</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Day 7">
+      <created>1670406370791</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1670406370791</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -197,17 +223,8 @@
     <MESSAGE value="Day 3" />
     <MESSAGE value="Day 4" />
     <MESSAGE value="Day 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 5" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="kotlin-line">
-          <url>file://$PROJECT_DIR$/src/main/kotlin/Day06.kt</url>
-          <line>5</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="Day 6" />
+    <MESSAGE value="Day 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 7" />
   </component>
 </project>
